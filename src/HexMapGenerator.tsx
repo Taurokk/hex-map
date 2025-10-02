@@ -1,5 +1,4 @@
-import React, { useMemo, useRef, useState } from "react";
-
+import { useMemo, useRef, useState } from "react";
 // ========================
 // Hex Map Generator (SVG)
 // - pointy-top

@@ -1,4 +1,3 @@
-import React from "react";
 import HexMapGenerator from "./HexMapGenerator";
 
 export default function App() {
